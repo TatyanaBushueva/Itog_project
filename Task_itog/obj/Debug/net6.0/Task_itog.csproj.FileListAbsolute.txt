@@ -1,0 +1,15 @@
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\bin\Debug\net6.0\Task_itog.exe
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\bin\Debug\net6.0\Task_itog.deps.json
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\bin\Debug\net6.0\Task_itog.runtimeconfig.json
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\bin\Debug\net6.0\Task_itog.dll
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\bin\Debug\net6.0\Task_itog.pdb
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.csproj.AssemblyReference.cache
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.AssemblyInfoInputs.cache
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.AssemblyInfo.cs
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.csproj.CoreCompileInputs.cache
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.dll
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\refint\Task_itog.dll
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.pdb
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\Task_itog.genruntimeconfig.cache
+C:\Users\СДТУ\Desktop\Itog_project\Task_itog\obj\Debug\net6.0\ref\Task_itog.dll
